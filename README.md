@@ -3,7 +3,7 @@
 ## Student Information
 **Name:** Okeke Kizito Chibueze  
 **Matric Number:** 24/15103
-**GitHub Repository:** [https://github.com/yourusername/hello-world-python]
+**GitHub Repository:** [https://github.com/Kizito24-hub/SEN_201_ASSIGNMENT/]
 
 ## Description
 This is a simple Python program that displays "Hello, World!" to the console.
